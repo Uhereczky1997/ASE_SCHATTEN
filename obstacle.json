@@ -1,0 +1,20 @@
+[
+  {
+    "x1_value": 5,
+    "y1_value": 5,
+    "x2_value": 9,
+    "y2_value": 5
+  },
+  {
+    "x1_value": 2,
+    "y1_value": -2,
+    "x2_value": 9,
+    "y2_value": -2
+  },
+  {
+    "x1_value": 6,
+    "y1_value": 10,
+    "x2_value": 6,
+    "y2_value": -10
+  }
+]
